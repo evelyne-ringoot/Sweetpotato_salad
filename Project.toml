@@ -1,0 +1,10 @@
+[deps]
+Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Cthulhu = "f68482b8-f384-11e8-15f7-abe071a5a75f"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GPUArrays = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
+GPUArraysCore = "46192b85-c4d5-4398-a991-12ede77f4527"
+NumericIO = "6c575b1c-77cb-5640-a5dc-a54116c90507"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
